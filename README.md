@@ -6,7 +6,6 @@ Create a new repository for this project called VBA-challenge. Do not add this a
 
 Inside the new repository that you just created, add any VBA files that you use for this assignment. These will be the main scripts to run for each analysis.
 
-VBA scripts.........................................................................................................................................................
 
 Sub MultipleYearStockData():
 
